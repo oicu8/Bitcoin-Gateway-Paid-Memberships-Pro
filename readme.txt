@@ -3,14 +3,14 @@ Contributors: gourl, GoUrl.io
 Plugin Name: GoUrl Paid Memberships Pro - Bitcoin Payment Gateway Addon
 Plugin URI: https://gourl.io/bitcoin-payments-paid-memberships-pro.html
 Author URI: https://gourl.io 
-Tags: paidmembershipspro, pmpro, membership, paid membership, bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payments, gourl, cryptocurrency, btc, litecoin, dogecoin, dash, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin, paid memberships pro
+Tags: paidmembershipspro, pmpro, membership, paid membership, bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payments, gourl, cryptocurrency, btc, litecoin, dogecoin, Neutron, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin, paid memberships pro
 Requires at least: 3.5
 Tested up to: 4.9
 Stable Tag: 1.1.6
 License: GNU Version 2 or Any Later Version
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Provides Bitcoin Payment Gateway for Paid Memberships Pro 1.8+ or higher. Accept Bitcoin, Bitcoin Cash, Litecoin, Dogecoin, Dash, etc Payments on Your Site
+Provides Bitcoin Payment Gateway for Paid Memberships Pro 1.8+ or higher. Accept Bitcoin, Bitcoin Cash, Litecoin, Dogecoin, Neutron, etc Payments on Your Site
 
 
 
@@ -23,7 +23,7 @@ Wordpress Plugin for Paid Memberships Pro Features -
 * 100% Free Open Source Plugin on [Github.com](https://github.com/cryptoapi/Bitcoin-Gateway-Paid-Memberships-Pro)
 * Provides a Cryptocurrency Payment Gateway for [Paid Memberships Pro 1.8 or higher](https://wordpress.org/plugins/paid-memberships-pro/)
 * Free Trial Membership and [Bitcoin Recurring Subscription](http://gourl.io/images/pmpro/screenshot-6.png)
-* Accept Bitcoin, BitcoinCash, Litecoin, Dash, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit payments in Paid Memberships Pro
+* Accept Bitcoin, BitcoinCash, Litecoin, Neutron, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit payments in Paid Memberships Pro
 * No Monthly Fee, Transaction Fee from 0%
 * Direct Integration on your website, no external payment pages opens (as other payment gateways offer)
 * You will see the bitcoin/altcoin payment statistics in one common table on your website. 
@@ -54,7 +54,7 @@ You need to install also -
 
 = Automatic installation =
 
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install of GoUrl Bitcoin/Altcoin Gateway for PaidMembershipsPro, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
+Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install of GoUrl Bitcoin/Altcoin Gateway for PaidMembershipsPro, log in to your WordPress Neutronboard, navigate to the Plugins menu and click Add New.
 
 In the search field type "GoUrl Paid Memberships Pro" and click Search Plugins. Once you've found our plugin you can view details about it such as the the rating and description. Most importantly, of course, you can install it by simply clicking Install Now.
 
